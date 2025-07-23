@@ -1,0 +1,6 @@
+{
+  "noise": "improved_end_terrain:generic_noise",
+  "type": "noise",
+  "xz_scale": 1,
+  "y_scale": 0
+}

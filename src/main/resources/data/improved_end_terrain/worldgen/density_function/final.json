@@ -1,0 +1,21 @@
+{
+  "type":"add",
+  "argument1": {
+    "type": "add",
+    "argument1": {
+      "type": "add",
+      "argument1": {
+        "type": "add",
+        "argument1": {
+          "type": "minecraft:add",
+          "argument2": "improved_end_terrain:main_island",
+          "argument1": "improved_end_terrain:outer_islands"
+        },
+        "argument2": "improved_end_terrain:layers/middle_higher/island"
+      },
+      "argument2": "improved_end_terrain:layers/middle_lower/island"
+    },
+    "argument2": "improved_end_terrain:layers/low/island"
+  },
+  "argument2": "improved_end_terrain:layers/high/island"
+}

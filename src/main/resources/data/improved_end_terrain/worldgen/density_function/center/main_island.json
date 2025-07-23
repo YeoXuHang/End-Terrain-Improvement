@@ -1,0 +1,7 @@
+{
+    "type": "improved_end_terrain:main_end_island_distance_gradient",
+    "from_value": 0,
+    "to_value": 2,
+    "max_distance": 1000,
+    "min_distance": 0
+}

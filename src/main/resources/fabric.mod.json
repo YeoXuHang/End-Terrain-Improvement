@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "improved_end_terrain",
+  "version": "${version}",
+  "name": "End Terrain Improvement",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.yeoxuhang.example.improved_end_terrain.EndTerrain"
+    ],
+    "client": [
+      "net.yeoxuhang.example.improved_end_terrain.EndTerrainClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
